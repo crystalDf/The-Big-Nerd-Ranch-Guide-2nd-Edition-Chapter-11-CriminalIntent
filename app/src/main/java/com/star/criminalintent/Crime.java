@@ -51,4 +51,5 @@ public class Crime {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat(format, Locale.US);
         return simpleDateFormat.format(mDate);
     }
+
 }
